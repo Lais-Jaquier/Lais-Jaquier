@@ -2,6 +2,7 @@
 
 🎓 Estudante de Analise e desenvolvimento de sistemas.  
 💻 Iniciando minha jornada na tecnologia e desenvolvimento de software.
+
 🚀 Interessada em **Qualidade de Software**, **Automação de Testes**, **Desenvolvimento Web** e **Salesforce**  
 
 ---
