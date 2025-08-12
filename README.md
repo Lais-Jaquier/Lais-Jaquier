@@ -29,7 +29,7 @@
 ---
 
 ## 📫 Como me encontrar
-[![Email](https://img.shields.io/badge/Email-liais.jaquier%40hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laisjaquier@gmail.com)
+[![Email](https://img.shields.io/badge/Email-lais.jaquier%40hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laisjaquier@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Laís%20Jaquier-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lais-jaquier-a05ba5278)
 
 ---
